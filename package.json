@@ -11,7 +11,7 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://solipkimm.github.io/web-api-profile-test",
+  "homepage": "https://solipkimm.github.io/web-api-profile-test/",
   "dependencies": {
     "gh-pages": "^3.2.3"
   },
