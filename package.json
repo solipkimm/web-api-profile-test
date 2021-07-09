@@ -1,0 +1,21 @@
+{
+  "name": "web-api-profile-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html --public-url ./",
+    "start": "npm run dev",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://solipkimm.github.io/web-api-profile-test",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
